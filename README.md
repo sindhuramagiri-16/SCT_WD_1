@@ -17,6 +17,23 @@
 - HTML5
 - CSS3
 - JavaScript
+  ## Screenshots
+
+### Home Page
+
+![Home](Screenshots/home.png)
+
+### Features Section
+
+![Features](Screenshots/features.png)
+
+### Services Section
+
+![Services](Screenshots/services.png)
+
+### Mobile View
+
+![Mobile](Screenshots/mobile.png)
 
 ### How to Run
 
