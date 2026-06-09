@@ -19,22 +19,19 @@
 - JavaScript
   ## Screenshots
 
-### Home Page
+## Screenshots
 
+### Home Page
 ![Home](Screenshots/home.png)
 
 ### Features Section
-
 ![Features](Screenshots/features.png)
 
 ### Services Section
-
 ![Services](Screenshots/services.png)
 
 ### Mobile View
-
 ![Mobile](Screenshots/mobile.png)
-
 ### How to Run
 
 1. Download the project.
